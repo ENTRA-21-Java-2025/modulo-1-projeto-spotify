@@ -2,6 +2,8 @@
 
 Bem-vindo ao **Spotify - Music Clone**, um projeto inspirado na interface do Spotify, criado para explorar conceitos de desenvolvimento web moderno. Aqui você pode visualizar artistas populares e álbuns em alta, com uma interface estilosa e interativa!
 
+![Tela](./img/print.png)
+
 ## 🚀 Funcionalidades
 
 - **Artistas Populares**: Exibição de artistas com imagens e nomes.
@@ -18,4 +20,5 @@ Bem-vindo ao **Spotify - Music Clone**, um projeto inspirado na interface do Spo
 - **Font Awesome**: Ícones para melhorar a interface.
 
 ### Referência
+
 https://www.youtube.com/watch?v=1jvxxoW_1TM
